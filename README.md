@@ -8,5 +8,5 @@ I´m a software developer from Pamplona, Spain. I do HTML, CSS, JavaScript (with
 - 🤔 I’m looking for help with developing a sustainable and open-source open-canvas task manager app. 
 - 💬 Ask me about how to build a sustainable present.
 - 📫 Reach me at svig-github@pm.me 
-- 😄 People call me Nacho (Natxo).
+- 😄 People call me Nacho.
 - ⚡ Joyfully vegan.
