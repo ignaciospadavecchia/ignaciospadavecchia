@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I´m a software developer from Pamplona, Spain. I do HTML, CSS, JavaScript (with Vue or Angular) and Node. Currently I'm focused on C # and .NET.  
-Working for Google, I also consolidated skills in cloud systems integration. Previously I worked in IT for more than 10 years.
+I´m a software developer from Pamplona, Spain. I do HTML, CSS, JavaScript (with Vue or Angular) and Node. Currently I'm focused on C # and .NET. Working for Google, I also consolidated skills in cloud systems integration. Previously I worked in IT for more than 10 years.
 
 - 🔭 Currently building with C# and .NET.
 - 🌱 Currently learning Angular and IONIC.
