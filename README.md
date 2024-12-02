@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**ignaciospadavecchia/ignaciospadavecchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I´m a software developer from Pamplona, Spain. I do HTML, CSS, JavaScript (with Vue or Angular) and Node. Currently I'm focused on C # and .NET.  
+Working for Google, I also consolidated skills in cloud systems integration. Previously I worked in IT for more than 10 years.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building with C# and .NET.
+- 🌱 Currently learning Angular and IONIC.
+- 👯 I seek to contribute to projects with a good work environment and personal values.
+- 🤔 I’m looking for help with developing a sustainable and open-source open-canvas task manager app. 
+- 💬 Ask me about how to build a sustainable present.
+- 📫 Reach me at svig-github@pm.me 
+- 😄 People call me Nacho (Natxo).
+- ⚡ Joyfully vegan.
