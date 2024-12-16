@@ -8,5 +8,5 @@ I´m a software developer located in Pamplona, Spain. I do HTML, CSS, JavaScript
 - 🤔 I’m looking for help with developing an open-canvas project manager app. 
 - 💬 Ask me about how to build a sustainable present.
 - 📫 Reach me at svig-github@pm.me 
-- 😄 People call me Nacho.
+- 😄 People call me Natxo.
 - ⚡ Joyfully vegan.
